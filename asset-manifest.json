@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TextMorpher/static/css/main.21cc5796.css",
-    "main.js": "/TextMorpher/static/js/main.898add51.js",
+    "main.js": "/TextMorpher/static/js/main.a6c524a5.js",
     "static/js/787.8c4340b6.chunk.js": "/TextMorpher/static/js/787.8c4340b6.chunk.js",
     "index.html": "/TextMorpher/index.html",
     "main.21cc5796.css.map": "/TextMorpher/static/css/main.21cc5796.css.map",
-    "main.898add51.js.map": "/TextMorpher/static/js/main.898add51.js.map",
+    "main.a6c524a5.js.map": "/TextMorpher/static/js/main.a6c524a5.js.map",
     "787.8c4340b6.chunk.js.map": "/TextMorpher/static/js/787.8c4340b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21cc5796.css",
-    "static/js/main.898add51.js"
+    "static/js/main.a6c524a5.js"
   ]
 }
