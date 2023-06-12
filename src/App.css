@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.wel{
+  color:green;
+  padding-left: 30rem;
+}
+.nv{
+
+color:blueviolet;
+background-color: gray;
+}
